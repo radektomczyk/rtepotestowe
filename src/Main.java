@@ -5,6 +5,7 @@ public class Main {
         for (int i=0;i<5;i=14){
             System.out.println(i+3);
             System.out.println("Alamakota");
+            System.out.println("Alamakota");
         }
     }
     public static void main(String[] args) {
