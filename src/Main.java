@@ -2,7 +2,7 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void fun1(){
-        for (int i=0;i<5;i++){
+        for (int i=0;i<51;i++){
             System.out.println(i);
         }
     }
