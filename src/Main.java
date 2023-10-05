@@ -27,6 +27,12 @@ public class Main {
         User user = new User();
         user.showUser();
 
+        Teacher ticzer = new Teacher();
+        ticzer.showName("Krzysztof");
+        ticzer.showSurname("Kondonowicz");
+
+
+
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
